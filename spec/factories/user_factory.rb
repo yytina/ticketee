@@ -3,6 +3,6 @@ FactoryGirl.define do
     name "Example"
     password "password"
     password_confirmation "password"
-    email "email"
+    email "sample@example.com"
   end
 end
