@@ -11,5 +11,6 @@ feature 'Signing up' do
 		click_button "Sign up"
 
 		expect(page).to have_content("You have signed up successfuly.")
+
 	end
 end
