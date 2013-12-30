@@ -20,3 +20,4 @@ end
 RSpec.configure do |c|
   c.include AuthHelpers, type: :controller
 end
+
